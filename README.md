@@ -6,6 +6,10 @@ This tool aims to deliver a slick and easy to use UI aimed to simplify the mass 
 
 All the magic happens in the browser; no more limitations or rubbish scams!
 
+## KanBan Board
+
+Come join in the fun on our [Trello Board](https://trello.com/b/VP81gWpn/csv-json-tool)!
+
 ## Installation
 
 Clone this repository:
