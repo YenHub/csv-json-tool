@@ -1,0 +1,50 @@
+{
+    "@testing-library/jest-dom@4.2.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/testing-library/jest-dom",
+        "licenseUrl": "https://github.com/testing-library/jest-dom/raw/master/LICENSE",
+        "parents": "gigrilla"
+    },
+    "@testing-library/react@9.5.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/testing-library/react-testing-library",
+        "licenseUrl": "https://github.com/testing-library/react-testing-library/raw/master/LICENSE",
+        "parents": "gigrilla"
+    },
+    "@testing-library/user-event@7.2.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/testing-library/user-event",
+        "licenseUrl": "https://github.com/testing-library/user-event/raw/master/LICENSE",
+        "parents": "gigrilla"
+    },
+    "moment@2.26.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/moment/moment",
+        "licenseUrl": "https://github.com/moment/moment/raw/master/LICENSE",
+        "parents": "gigrilla"
+    },
+    "react-dom@16.13.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/react",
+        "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
+        "parents": "gigrilla"
+    },
+    "react-router-dom@5.2.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/ReactTraining/react-router",
+        "licenseUrl": "https://github.com/ReactTraining/react-router/raw/master/LICENSE",
+        "parents": "gigrilla"
+    },
+    "react-scripts@3.4.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/create-react-app",
+        "licenseUrl": "https://github.com/facebook/create-react-app/raw/master/LICENSE",
+        "parents": "gigrilla"
+    },
+    "react@16.13.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/react",
+        "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
+        "parents": "gigrilla"
+    }
+}
