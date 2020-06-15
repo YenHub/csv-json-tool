@@ -8,20 +8,36 @@ All the magic happens in the browser; no more limitations or rubbish scams!
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Clone this repository:
 
 ```bash
-pip install foobar
+git clone git@github.com:YenHub/csv-json-tool.git
+```
+
+Use npm to install the project dependencies:
+
+```bash
+npm install
 ```
 
 ## Usage
 
-```python
-import foobar
+Build the production source @ /build
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```bash
+npm run build
+```
+
+Run the local development environment on localhost:3000
+
+```bash
+npm start
+```
+
+Run the all test suites & monitor for changes
+
+```bash
+npm run test
 ```
 
 ## Contributing
