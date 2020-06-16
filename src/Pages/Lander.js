@@ -2,7 +2,7 @@ import React from 'react';
 import CopyFooter from '../Components/CopyFooter'
 import '../App.css';
 
-function Lander() {
+const Lander = () => {
 
   return (
     <div className="App">
@@ -11,6 +11,7 @@ function Lander() {
       </header>
     </div>
   );
+
 }
 
 export default Lander;

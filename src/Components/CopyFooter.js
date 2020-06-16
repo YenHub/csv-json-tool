@@ -4,7 +4,8 @@ import moment from 'moment';
 
 const getCurrentYear = () => moment().year();
 
-function CopyFoot() {
+const CopyFoot = () => {
+
     return (
         <div>
             <div className="phantom" />
@@ -15,8 +16,7 @@ function CopyFoot() {
             </div>
         </div>
     )
+
 }
-
-
 
 export default CopyFoot
