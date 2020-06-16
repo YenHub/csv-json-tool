@@ -5,11 +5,11 @@ import '../App.css';
 const Lander = () => {
 
   return (
-    <div className="App">
-      <header className="App-header">
+
+      <div className="App-Container">
         <CopyFooter/>
-      </header>
-    </div>
+      </div>
+
   );
 
 }
