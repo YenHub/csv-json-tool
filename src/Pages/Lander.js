@@ -1,20 +1,19 @@
 import React from 'react';
 import CopyFooter from '../Components/CopyFooter';
-import { Navbar } from 'react-bootstrap';
+import NavHeader from './NavHeader';
+import { Container } from 'react-bootstrap';
 import '../App.css';
 
 const Lander = () => {
 
     return (
 
-        <div className="App-Container">
+        <Container fluid>
 
-            <Navbar bg="light">
-                <Navbar.Brand href="#home">Brand link</Navbar.Brand>
-            </Navbar>
-
+            <NavHeader/>
             <CopyFooter/>
-        </div>
+
+        </Container>
 
     );
 
