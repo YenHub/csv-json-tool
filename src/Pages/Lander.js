@@ -1,16 +1,22 @@
 import React from 'react';
-import CopyFooter from '../Components/CopyFooter'
+import CopyFooter from '../Components/CopyFooter';
+import NavHeader from './NavHeader';
+import { Container } from 'react-bootstrap';
 import '../App.css';
 
-function Lander() {
+const Lander = () => {
 
-  return (
-    <div className="App">
-      <header className="App-header">
-        <CopyFooter/>
-      </header>
-    </div>
-  );
+    return (
+
+        <Container fluid>
+
+            <NavHeader/>
+            <CopyFooter/>
+
+        </Container>
+
+    );
+
 }
 
 export default Lander;

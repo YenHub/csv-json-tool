@@ -7,7 +7,7 @@ import {
 
 import Lander from './Pages/Lander'
 
-function App() {
+const App = () => {
 
     return (
         <Router>
@@ -19,6 +19,7 @@ function App() {
 
       </Router>
     );
+
 }
 
 export default App;

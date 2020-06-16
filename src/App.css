@@ -1,30 +1,28 @@
 /* FONTS */
 @import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
 
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 15s linear;
-  }
-}
-
-.App-header {
+.App-Container {
   background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+  /* min-height: 100vh; */
+  /* display: flex; */
+  /* flex-direction: column; */
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  /* justify-content: center; */
+  /* font-size: calc(10px + 2vmin); */
+  /* color: white; */
+  height: 100%;
+}
+
+.phantom {
+    display: block;
+    padding: 20px;
+    height: 60px;
+    width: 100%;
+}
+
+.brandTag {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: calc(15px + 2vmin) !important;
 }
 
 .sticky-footer {
@@ -34,13 +32,6 @@
     left: 0;
     bottom: 0;
     height: 30px;
-    width: 100%;
-}
-
-.phantom {
-    display: block;
-    padding: 20px;
-    height: 60px;
     width: 100%;
 }
 
