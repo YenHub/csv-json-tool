@@ -1,6 +1,6 @@
-# Spicy CSV 🌶
+# CommaComb 🌶
 
-Spicy CSV is a CSV to JSON (and back) conversion tool.
+CommaComb is a simple handy CSV to JSON (and back) conversion tool.
 
 This tool provides a ReactJS implementation of the ever popular and super awesome [PapaParse Conversion Library](https://github.com/mholt/PapaParse)
 
