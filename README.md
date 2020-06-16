@@ -1,14 +1,38 @@
-# CSV <> JSON | Conversion Tool
+# Spicy CSV 🌶
+
+Spicy CSV is a CSV to JSON (and back) conversion tool.
 
 This tool provides a ReactJS implementation of the ever popular and super awesome [PapaParse Conversion Library](https://github.com/mholt/PapaParse)
 
-This tool aims to deliver a slick and easy to use UI aimed to simplify the mass conversion of CSV & JSON documents
+This tool aims to deliver a slick and easy to use UI aimed to simplify the mass conversion of CSV & JSON documents.
 
-All the magic happens in the browser; no more limitations or rubbish scams!
+All the magic happens in the browser; no more upload size limitations, rubbish scams or server 500 errors!
 
-## KanBan Board
+Made by developers, for developers.
 
-Come join in the fun on our [Trello Board](https://trello.com/b/VP81gWpn/csv-json-tool)!
+## Is it done yet?
+
+This project is currently a work in progress 😁
+
+Anyone is welcome to get involved, this will be a quick and fun project - so feel free to wing over a PR and join in! 
+
+## What's todo?
+
+- [x] CRA Boiler Plate
+- [ ] Build UI
+    - [ ] DND File Input Window
+        - [x] Implement PapaParse
+        - [ ] Filetype: JSON, CSV
+        - [ ] Custom Errors
+    - [ ] Settings Modal
+        - [ ] Custom Doc Title
+    - [ ] Results Window?
+- [ ] Dev Tools Backend
+    - [ ] Write a new PrettyConsole.js
+    - [ ] Show some cool dev tools magic
+    - [ ] Doc conversion stats?
+- [ ] Write Unit Tests
+- [ ] Other stuff... 😋
 
 ## Installation
 
