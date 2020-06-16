@@ -1,4 +1,4 @@
-# CSV <> JSON | Conversion Tool
+# CommaComb | CSV Conversion Tool
 
 This tool provides a ReactJS implementation of the ever popular and super awesome [PapaParse Conversion Library](https://github.com/mholt/PapaParse)
 
